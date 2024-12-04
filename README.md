@@ -29,7 +29,7 @@
 ### Desenvolvendo...
 
 <a href="https://github.com/Rian-Sm/adventofcode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rian-Sm&repo=adventofcode&theme=dark&description_lines_count=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rian-Sm&repo=adventofcode&theme=dark&description_lines_count=1" />
 </a>
 
 ### Voluntariádo
