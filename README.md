@@ -38,6 +38,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifspcodelab&repo=frontend-memoria-ifsp&theme=dark&description_lines_count=2" />
 </a>
 
+<a href="https://github.com/ifspcodelab/centro-memoria-ifsp-2020">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifspcodelab&repo=centro-memoria-ifsp-2020&theme=dark&description_lines_count=2" />
+</a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Rian-Sm&icon=2&color=1)](https://visitcount.itsvg.in)
 
