@@ -26,7 +26,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rian-Sm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# Voluntariádo
+### Desenvolvendo...
+
+<a href="https://github.com/Rian-Sm/adventofcode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rian-Sm&repo=adventofcode&theme=dark&description_lines_count=2" />
+</a>
+
+### Voluntariádo
 
 <a href="https://github.com/ifspcodelab/frontend-memoria-ifsp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifspcodelab&repo=frontend-memoria-ifsp&theme=dark&description_lines_count=2" />
