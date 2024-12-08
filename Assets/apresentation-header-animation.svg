@@ -21,7 +21,7 @@
         dur='6000ms' fill='remove'
         values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
     </path>
-    <text font-family='"Fira Code", monospace' fill='#36BCF7' font-size='20'
+    <text font-family='"Fira Code", monospace' fill='#fff' font-size='20'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
