@@ -1,7 +1,6 @@
 <div align="center">
 
-## [![](https://raw.githubusercontent.com/Rian-Sm/Rian-Sm/0306a4c3826f8d0c48fbd41f91fb91facf8a006d/Assets/apresentation-header-animation.svg)]()
-
+[![](https://raw.githubusercontent.com/Rian-Sm/Rian-Sm/98013e7a2e1b265210ebb0a83383871e918bec65/Assets/apresentation-header-animation.svg)]()
 <pre>
 🔭 I’m currently full-stack developer<br>
 🌱 I’m currently learning microservices<br>
