@@ -1,12 +1,20 @@
 <div align="center">
 
-[![](https://raw.githubusercontent.com/Rian-Sm/Rian-Sm/98013e7a2e1b265210ebb0a83383871e918bec65/Assets/apresentation-header-animation.svg)]()
+
+<img align="right" alt="jpg" width="25%" src="https://raw.githubusercontent.com/Rian-Sm/Rian-Sm/refs/heads/main/Assets/forangeillustrations-ashenvale.png" />
+
+<img  alt="jpg" width="70%" src="https://raw.githubusercontent.com/Rian-Sm/Rian-Sm/98013e7a2e1b265210ebb0a83383871e918bec65/Assets/apresentation-header-animation.svg" />
+
+
+<br><br>
 
 <pre>
-🔭 I’m currently full-stack developer<br>
-🌱 I’m currently learning microservices<br>
-💬 Ask me about ASP.Net Core, React, MLBB
+    🔭 I’m currently full-stack developer<br>
+    🌱 I’m currently learning microservices<br>
+    💬 Ask me about ASP.Net Core, React, MLBB
 </pre>
+
+<br><br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UKtKPTgBvJ)
