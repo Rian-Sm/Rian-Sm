@@ -28,10 +28,9 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6661ac9cb998f3b3c7e9ee89?variant=dark&roadmaps=aspnet-core%2Cdatastructures-and-algorithms%2Csoftware-design-architecture%2Cjava)](https://roadmap.sh/u/rsm) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Sm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact//)
+![](https://github-readme-stats.vercel.app/api?username=Rian-Sm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=Rian-Sm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Sm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rian-Sm&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
