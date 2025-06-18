@@ -10,7 +10,7 @@
 
 <pre>
     🔭 I’m currently full-stack developer<br>
-    🌱 I’m currently learning microservices<br>
+    🌱 I’m currently learning automation services<br>
     💬 Ask me about ASP.Net Core, React, MLBB
 </pre>
 
