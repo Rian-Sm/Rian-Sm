@@ -30,29 +30,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Sm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rian-Sm&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rian-Sm&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### Desenvolvendo...
-
-<a href="https://github.com/Rian-Sm/adventofcode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rian-Sm&repo=adventofcode&theme=dark&description_lines_count=1" />
-</a>
-
-
-
-### Projetos da Faculdade
-
-<a href="https://github.com/ifspcodelab/frontend-memoria-ifsp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifspcodelab&repo=frontend-memoria-ifsp&theme=dark&description_lines_count=2" width="45%" align="right"  />
-</a>
-
-<a href="https://github.com/ifspcodelab/centro-memoria-ifsp-2020">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifspcodelab&repo=centro-memoria-ifsp-2020&theme=dark&description_lines_count=2"  width="45%" align="left" />
-</a>
-
-<br><br><br><br><br><br><br>
 
